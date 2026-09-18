@@ -12,6 +12,14 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
+# Downloaded models and weights
+/01-build-llm-from-scratch/gpt2/
+*.pt
+*.pth
+*.ckpt
+*.ckpt.*
+*.safetensors
+
 # OS
 .DS_Store
 Thumbs.db
