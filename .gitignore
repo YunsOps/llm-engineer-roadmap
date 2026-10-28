@@ -1,6 +1,7 @@
 # PDF & text files
 *.pdf
 *.txt
+langchain/
 
 # Python
 __pycache__/
