@@ -2,6 +2,7 @@
 *.pdf
 *.txt
 langchain/
+langchain-docs
 
 # Python
 __pycache__/
