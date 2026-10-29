@@ -30,3 +30,6 @@ Thumbs.db
 
 # env
 .env
+
+# DB
+chroma_db_e5
